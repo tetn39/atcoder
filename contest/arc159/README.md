@@ -1,4 +1,4 @@
-# ARC159 A
+# ARC159: A
 [ARC159](https://atcoder.jp/contests/arc159)
 
 
