@@ -1,4 +1,4 @@
-# ABC300: A~D
+# ABC302: A~D
 [ABC302](https://atcoder.jp/contests/abc302)
 
 ## A問題
