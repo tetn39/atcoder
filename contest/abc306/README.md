@@ -1,5 +1,5 @@
 # # ABC306: A~C
-[ABC305](https://atcoder.jp/contests/abc306)
+[ABC306](https://atcoder.jp/contests/abc306)
 
 ## A問題
 全部の文字を2個ずつだす
