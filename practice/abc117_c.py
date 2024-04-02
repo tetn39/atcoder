@@ -21,15 +21,15 @@ def input_list():
 n, m = input_nm()
 x = input_list()
 x.sort()
-# if n >= m:
-#     print(0)
-#     exit()
+if n >= m:
+    print(0)
+    exit()
 sa = []
 ans = 0
 for i in range(1, m):
     sa.append(x[i] - x[i-1])
 sa.sort()
-print(sa)
+
 ans = sum(sa[:len(sa)-(n-1)])
 print(ans)
 
